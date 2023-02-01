@@ -8,20 +8,20 @@ Dataset contains two-dimensional signal (signal wavelength, signal amplitude).
 
 Four machine learning models have been created:
 
-Linear Regression
-MultiTaskElasticNetCV
-Random Forest Regressor
-KNeighborsRegressor
+- Linear Regression
+- MultiTaskElasticNetCV
+- Random Forest Regressor
+- KNeighborsRegressor
 
 The best results were obtained for Random Forest Regressor.
 
-Libraries
+Libraries:
 
-numpy
-pandas
-matplotlib
-sklearn
+- numpy
+- pandas
+- matplotlib
+- sklearn
 
-Contact
+Contact:
 
 piotr.ciechowicz@gmail.com
