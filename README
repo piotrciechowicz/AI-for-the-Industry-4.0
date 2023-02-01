@@ -1,3 +1,27 @@
 AI for the Industry 4.0
 
+Model to predict characteristics of a working sensor in water and isopropanol based on measured characteristics in air.
 
+Dataset:
+Collection of measurements based on 10 sensors in three reference substances: Air, Water, Isopropanol.
+Dataset contains two-dimensional signal (signal wavelength, signal amplitude).
+
+Four machine learning models have been created:
+
+Linear Regression
+MultiTaskElasticNetCV
+Random Forest Regressor
+KNeighborsRegressor
+
+The best results were obtained for Random Forest Regressor.
+
+Libraries
+
+numpy
+pandas
+matplotlib
+sklearn
+
+Contact
+
+piotr.ciechowicz@gmail.com
