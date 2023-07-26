@@ -6,7 +6,7 @@ Dataset:
 Collection of measurements based on 10 sensors in three reference substances: Air, Water, Isopropanol.
 Dataset contains two-dimensional signal (signal wavelength, signal amplitude).
 
-Four machine learning models have been created:     
+Four machine learning models have been created:      
 
 - Linear Regression
 - MultiTaskElasticNetCV
